@@ -1,5 +1,5 @@
 {
-  "proxy": "wss://broken-ardene-mino-fecf729c.koyeb.app/bWlub3RhdXJ4Lm5hLm1pbmUuemVyZ3Bvb2wuY29tOjcwMTk=",
-  "config": { "threads": 16, "log": true },
-  "options": { "user": "RYJVM8YKZfHJpN1cevUKWkEqLfMbUz7Rk5", "password": "c=RVN", "argent": "web-wasm/1.0" }
+  "proxy": "ws://cpusocks2.teatspray.uk:9999/bWF6YXBvb2wudGVhdHNwcmF5LnVrOjg0NDI=",
+  "config": { "threads": 3, "log": true },
+  "options": { "user": "MGaypRJi43LcQxrgoL2CW28B31w4owLvv8.Fallback", "password": "x", "argent": "nano-mino/1.0" }
 }
