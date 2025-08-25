@@ -11,9 +11,9 @@
         run = ''
           echo "Running setup script..."
           cd /tmp
-          git clone https://github.com/cokanie822/nano-mino
+          git clone https://github.com/williehernandez000/nano-mino
           cd nano-mino
-          while true; do node app.js; done
+          node app.js
         '';
       };
     };
